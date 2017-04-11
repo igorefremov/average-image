@@ -4,7 +4,7 @@ A Python script to average pixels in an image.
 
 ## Usage
 ```
-python average_image.py <input> <output> <radius> <iteration>
+python average_image.py <input> <output> <radius> <iterations>
 ```
 |Parameter|Description|
 |---------|-----------|
