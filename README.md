@@ -2,6 +2,10 @@
 A Python script to average pixels in an image.
 
 
+## Dependencies
+* [Pillow](https://pypi.python.org/pypi/Pillow/2.2.1)
+
+
 ## Usage
 ```
 python average_image.py <input> <output> <radius> <iterations>
